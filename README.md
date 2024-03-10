@@ -5,13 +5,13 @@ SCHSHELL is a tool for scanning shell backdoors in every folder on your website.
 SCSHELL opens each folder and file then matches it with the query in the script.
 
 Query : 
-
-`base64_encode
-`base64_decode
-`FATHURFREAKZ
-`eval
-`system
-`gzinflate
+`
+base64_encode
+base64_decode
+FATHURFREAKZ
+eval
+system
+gzinflate
 str_rot13
 convert_uu
 shell_data
