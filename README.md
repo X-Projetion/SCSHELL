@@ -4,9 +4,9 @@ SCHSHELL is a tool for scanning shell backdoors in every folder on your website.
 <h1 align="center">
   <img src="scshell.png" alt="paramsan" width="500px">
   <br>
+  <h4 align="center">scan for backdoor shells via local</h4>
 </h1>
 
-<h4 align="center">scan for backdoor shells via local</h4>
 # Feature
 SCSHELL opens each folder and file then matches it with the query in the script.
 
