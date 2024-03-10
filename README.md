@@ -1,7 +1,7 @@
 # SCSHELL
 SCHSHELL is a tool for scanning shell backdoors in every folder on your website.
 
-#Feature
+# Feature
 SCSHELL opens each folder and file then matches it with the query in the script.
 
 Query : 
