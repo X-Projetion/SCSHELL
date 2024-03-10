@@ -5,7 +5,7 @@ SCHSHELL is a tool for scanning shell backdoors in every folder on your website.
 SCSHELL opens each folder and file then matches it with the query in the script.
 
 Query : 
-`
+```
 base64_encode
 base64_decode
 FATHURFREAKZ
@@ -34,4 +34,4 @@ substr
 pathinfo
 __file__
 __halt_compiler
-`
+```
